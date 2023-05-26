@@ -1,0 +1,17 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+#register {
+    background-image: url("https://i.pinimg.com/736x/70/a5/20/70a520de0b349a74984f9e3a30225547--us-travel-uae.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+#sidebar-nav {
+    width: 160px;
+}
+.test {
+    color: black;
+}
